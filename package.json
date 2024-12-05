@@ -12,6 +12,7 @@
     "@hotwired/stimulus": "^3.2.2",
     "@hotwired/turbo-rails": "^8.0.12",
     "@popperjs/core": "^2.11.8",
+    "bootstrap-icons": "^1.11.3",
     "react": "^18.3.1",
     "react-dom": "^18.3.1",
     "react-router-dom": "^7.0.2"
